@@ -13,6 +13,7 @@ $./elfparser <excutable file>
 
 ## output
 ```sh
+$gcc hello.c -o hello
 $./elfparser hello
 Program Entry point: 0x400430 
 Section header list:
