@@ -12,6 +12,8 @@ $./elfparser <excutable file>
 ```
 
 ## output
+```sh
+$./elfparser hello
 Program Entry point: 0x400430 
 Section header list:
 
@@ -54,3 +56,4 @@ Text segment: 0x400000
 Data segment: 0x600e10
 Dynamic segment: 0x600e28
 Note segment: 0x400254
+```
