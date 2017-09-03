@@ -1,6 +1,6 @@
 # Elfparser
 
-its simple parser which analysis Executable and Linkable formate "ELF".
+its simple parser which analysis Executable and Linkable formate "ELF" 64bit.
 
 ## Compile
 ```sh
