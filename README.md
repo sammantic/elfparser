@@ -2,10 +2,11 @@
 
 its simple parser which analysis Executable and Linkable formate "ELF".
 
-## Compile
-gcc elfparser.c -o elfparser
-
-## Usage
+### Compile
+```sh
+$ gcc elfparser.c -o elfparser
+```
+### Usage
 $./elfparser <excutable file>
 ex:
 ./elfparser hello
