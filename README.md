@@ -2,11 +2,11 @@
 
 its simple parser which analysis Executable and Linkable formate "ELF".
 
-### Compile
+## Compile
 ```sh
 $ gcc elfparser.c -o elfparser
 ```
-### Usage
+## Usage
 ```sh
 $./elfparser <excutable file>
 ```
@@ -57,6 +57,6 @@ Data segment: 0x600e10
 Dynamic segment: 0x600e28
 Note segment: 0x400254
 ```
-### Author
+## Author
 * **Mohammed Alsamman** - Sammantic4@gmail.com 
 
