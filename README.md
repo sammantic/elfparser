@@ -57,3 +57,6 @@ Data segment: 0x600e10
 Dynamic segment: 0x600e28
 Note segment: 0x400254
 ```
+### Author
+* **Mohammed Alsamman** - Sammantic4@gmail.com 
+
