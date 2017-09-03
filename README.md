@@ -7,9 +7,9 @@ its simple parser which analysis Executable and Linkable formate "ELF".
 $ gcc elfparser.c -o elfparser
 ```
 ### Usage
+```sh
 $./elfparser <excutable file>
-ex:
-./elfparser hello
+```
 
 ## output
 Program Entry point: 0x400430 
